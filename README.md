@@ -1,5 +1,6 @@
 Vendor Samsung for build
 ======================
+Vendor Tree of bcm21553 Chipset Devices
 
 Devices:
 
